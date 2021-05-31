@@ -1,0 +1,77 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(80,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(356,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(408,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(435,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(468,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(496,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(538,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(568,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(588,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(635,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(665,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(712,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(747,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(776,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(820,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(849,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(856,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\CatmullRom.cpp(916,20): warning C4018: '<': signed/unsigned mismatch
+  Coin.cpp
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Coin.cpp(67,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Coin.cpp(125,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Coin.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Coin.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+  Cone.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(264,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(278,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(294,76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(305,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(325,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(525,21): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(563,21): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(663,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(724,21): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(733,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(742,21): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(749,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(759,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(782,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(788,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Game.cpp(797,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  Lamp.cpp
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(88,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(111,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(220,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(244,29): warning C4018: '<=': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(269,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(316,20): warning C4018: '<': signed/unsigned mismatch
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Lamp.cpp(354,29): warning C4018: '<=': signed/unsigned mismatch
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Player.cpp
+D:\IN3005 - Graphics\Project_v3 - Copy\OpenGLTemplate\Player.cpp(48,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  Generating Code...
+  Compiling...
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> D:\IN3005 - Graphics\Project_v3 - Copy\Debug\OpenGLTemplate.exe
